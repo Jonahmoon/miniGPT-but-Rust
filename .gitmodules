@@ -1,0 +1,6 @@
+[submodule "third_party/minGPT"]
+    path = third_party/minGPT
+    url = https://github.com/karpathy/minGPT.git
+[submodule "third_party/tch-rs"]
+    path = third_party/tch-rs
+    url = https://github.com/LaurentMazare/tch-rs.git
